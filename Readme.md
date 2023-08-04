@@ -1,4 +1,4 @@
-## Web Challenge
+## Web Challenges
 
 * **N1**
     * **Level:** Warmup
