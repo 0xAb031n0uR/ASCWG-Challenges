@@ -1,6 +1,6 @@
 # ASC Wargames 2023
 
-![Alt text](https://www.ascyberwargames.com/wp-content/uploads/2018/02/512.png)
+![Alt text](/logo.png)
 
 
 ## ASC Wargames 2023 Web Challenges
